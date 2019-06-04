@@ -18,7 +18,9 @@ In this lab you'll create a Helm chart repository and use it to deploy a small J
 
 ### Setup
 
-1. If following this lab as part of an IBM instructor led workshop, login into to the terminal server with the credentials provided to you
+1. If following this lab as part of an IBM instructor led workshop, login into to the terminal server with the username and password provided to you. 
+
+![](https://paper-attachments.dropbox.com/s_2E075C2D60D273F2391E2E356856DE484C23C2144E1641B649EF2ED4B61A18A1_1559686108887_Screen+Shot+2019-06-04+at+6.08.06+PM.png)
 
 2. Login to your designated ICP instance from the command line
    ```
