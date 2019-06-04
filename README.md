@@ -30,6 +30,9 @@ In this lab you'll create a Helm chart repository and use it to deploy a small J
    ```
    helm init --client-only
    ```
+Your command line should have the following output. 
+
+![](https://paper-attachments.dropbox.com/s_2E075C2D60D273F2391E2E356856DE484C23C2144E1641B649EF2ED4B61A18A1_1559686432127_Screen+Shot+2019-06-04+at+6.12.02+PM.png)
 
 ### Step 1: Clone the Github repo that contains the code, build an Open Liberty image of the app and then push it to the IBM Cloud Kubernetes container registry
 
